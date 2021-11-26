@@ -1,4 +1,4 @@
-# **DQR – Data Quality Report**
+# **Data Visualization com Power BI**
 
 *Portfólio Thiago Gonçalves Custódio*
 
@@ -14,4 +14,4 @@ Necessidade de criação de Dashboards e Relatórios com indicadores chave de ne
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://th14g0cust0d10.github.io/Projeto_DQR_Python/
+* https://th14g0cust0d10.github.io/DataViz_PowerBI/
