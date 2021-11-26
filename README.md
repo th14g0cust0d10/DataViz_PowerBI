@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# **DQR – Data Quality Report**
 
-You can use the [editor on GitHub](https://github.com/th14g0cust0d10/DataViz_PowerBI/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+*Portfólio Thiago Gonçalves Custódio*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **Definição do Problema**
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](MicrosoftPower2.png)
 
-```markdown
-Syntax highlighted code block
+Necessidade de criação de Dashboards e Relatórios com indicadores chave de negócio para suporte a gestão, estratégia e tomada de decisão. Aqui exibiremmos diversos exemplos desenvovidos no Power BI Desktop, com a finlidade de demosntração de competência o quais não forão publicados.
 
-# Header 1
-## Header 2
-### Header 3
+**Informações sobre o DataSet:** Todos os DataSets aqui utilizados são fictícios, mas que podem representar a realidade.
 
-- Bulleted
-- List
+Para visualizar a análise completa feita neste projeto, acesse este link:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/th14g0cust0d10/DataViz_PowerBI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* https://th14g0cust0d10.github.io/Projeto_DQR_Python/
