@@ -1,12 +1,11 @@
 # **Data Visualization com Power BI**
-
 *Portfólio Thiago Gonçalves Custódio*
 
-## **Definição do Problema**
+![](MicrosoftPower2.png)
 
 ---
 
-![](MicrosoftPower2.png)
+## **Definição do Problema**
 
 Necessidade de criação de Dashboards e Relatórios com indicadores chave de negócio para suporte a gestão, estratégia e tomada de decisão. Aqui exibiremmos diversos exemplos desenvovidos no Power BI Desktop, com a finlidade de demosntração de competência o quais não forão publicados.
 
